@@ -1,0 +1,16 @@
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\CSharpAlgorithmsPractice\bin\Debug\net5.0\CSharpAlgorithmsPractice.exe
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\CSharpAlgorithmsPractice\bin\Debug\net5.0\CSharpAlgorithmsPractice.deps.json
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\CSharpAlgorithmsPractice\bin\Debug\net5.0\CSharpAlgorithmsPractice.runtimeconfig.json
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\CSharpAlgorithmsPractice\bin\Debug\net5.0\CSharpAlgorithmsPractice.runtimeconfig.dev.json
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\CSharpAlgorithmsPractice\bin\Debug\net5.0\CSharpAlgorithmsPractice.dll
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\CSharpAlgorithmsPractice\bin\Debug\net5.0\ref\CSharpAlgorithmsPractice.dll
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\CSharpAlgorithmsPractice\bin\Debug\net5.0\CSharpAlgorithmsPractice.pdb
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\CSharpAlgorithmsPractice\obj\Debug\net5.0\CSharpAlgorithmsPractice.csproj.AssemblyReference.cache
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\CSharpAlgorithmsPractice\obj\Debug\net5.0\CSharpAlgorithmsPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\CSharpAlgorithmsPractice\obj\Debug\net5.0\CSharpAlgorithmsPractice.AssemblyInfoInputs.cache
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\CSharpAlgorithmsPractice\obj\Debug\net5.0\CSharpAlgorithmsPractice.AssemblyInfo.cs
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\CSharpAlgorithmsPractice\obj\Debug\net5.0\CSharpAlgorithmsPractice.csproj.CoreCompileInputs.cache
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\CSharpAlgorithmsPractice\obj\Debug\net5.0\CSharpAlgorithmsPractice.dll
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\CSharpAlgorithmsPractice\obj\Debug\net5.0\ref\CSharpAlgorithmsPractice.dll
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\CSharpAlgorithmsPractice\obj\Debug\net5.0\CSharpAlgorithmsPractice.pdb
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\CSharpAlgorithmsPractice\obj\Debug\net5.0\CSharpAlgorithmsPractice.genruntimeconfig.cache

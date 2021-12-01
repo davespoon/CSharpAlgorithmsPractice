@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpAlgorithmsPractice", "CSharpAlgorithmsPractice\CSharpAlgorithmsPractice.csproj", "{437D2B59-6DFE-4182-8F89-57D336AD2494}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmsLib", "AlgorithmsLib\AlgorithmsLib.csproj", "{D9906854-FBBA-410F-B19E-8BDAB6D6AF36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmsTest", "AlgorithmsTest\AlgorithmsTest.csproj", "{B3FF373B-EAC6-4BDF-A6F8-75B179FC07A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{437D2B59-6DFE-4182-8F89-57D336AD2494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437D2B59-6DFE-4182-8F89-57D336AD2494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437D2B59-6DFE-4182-8F89-57D336AD2494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437D2B59-6DFE-4182-8F89-57D336AD2494}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9906854-FBBA-410F-B19E-8BDAB6D6AF36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9906854-FBBA-410F-B19E-8BDAB6D6AF36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9906854-FBBA-410F-B19E-8BDAB6D6AF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9906854-FBBA-410F-B19E-8BDAB6D6AF36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3FF373B-EAC6-4BDF-A6F8-75B179FC07A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3FF373B-EAC6-4BDF-A6F8-75B179FC07A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3FF373B-EAC6-4BDF-A6F8-75B179FC07A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3FF373B-EAC6-4BDF-A6F8-75B179FC07A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

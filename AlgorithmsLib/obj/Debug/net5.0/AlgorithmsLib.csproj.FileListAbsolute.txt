@@ -1,0 +1,12 @@
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\AlgorithmsLib\bin\Debug\net5.0\AlgorithmsLib.deps.json
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\AlgorithmsLib\bin\Debug\net5.0\AlgorithmsLib.dll
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\AlgorithmsLib\bin\Debug\net5.0\ref\AlgorithmsLib.dll
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\AlgorithmsLib\bin\Debug\net5.0\AlgorithmsLib.pdb
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\AlgorithmsLib\obj\Debug\net5.0\AlgorithmsLib.csproj.AssemblyReference.cache
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\AlgorithmsLib\obj\Debug\net5.0\AlgorithmsLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\AlgorithmsLib\obj\Debug\net5.0\AlgorithmsLib.AssemblyInfoInputs.cache
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\AlgorithmsLib\obj\Debug\net5.0\AlgorithmsLib.AssemblyInfo.cs
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\AlgorithmsLib\obj\Debug\net5.0\AlgorithmsLib.csproj.CoreCompileInputs.cache
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\AlgorithmsLib\obj\Debug\net5.0\AlgorithmsLib.dll
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\AlgorithmsLib\obj\Debug\net5.0\ref\AlgorithmsLib.dll
+D:\Projects\RiderProjects\CSharpAlgorithmsPractice\AlgorithmsLib\obj\Debug\net5.0\AlgorithmsLib.pdb
