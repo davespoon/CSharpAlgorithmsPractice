@@ -45,9 +45,15 @@ namespace AlgorithmsTest
         }
 
         [Test]
-        public void BubbleSort_ValidInput_SortedInput()
+        public void BubbleSort_ValidInput_SortedOutput()
         {
             RunTestForSortAlgorithm(Sorting.BubbleSort);
+        }
+
+        [Test]
+        public void SelectionSort_ValidInput_SortedOutput()
+        {
+            RunTestForSortAlgorithm(Sorting.SelectionSort);
         }
     }
 }
