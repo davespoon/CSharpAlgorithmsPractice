@@ -22,7 +22,8 @@ namespace AlgorithmsTest
 
             return samples;
         }
-
+        
+        
         private void RunTestForSortAlgorithm(Action<int[]> sort)
         {
             foreach (var sample in Samples())

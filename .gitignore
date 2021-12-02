@@ -1,0 +1,5 @@
+*.xml
+.vs/
+*.tmp
+AlgorithmsTest/obj/Debug/
+CSharpAlgorithmsPractice/obj/Debug/
