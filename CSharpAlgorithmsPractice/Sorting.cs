@@ -33,6 +33,22 @@
             }
         }
 
+        public static void InsertionSort(int[] array)
+        {
+            for (var partIndex = 1; partIndex <= array.Length - 1; partIndex++)
+            {
+                var curUnsorted = array[partIndex];
+                int i = 0;
+
+                for (i = partIndex; (i > 0 && curUnsorted < array[i - 1]); i--)
+                {
+                    array[i] = array[i - 1];
+                }
+
+                array[i] = curUnsorted;
+            }
+        }
+
         private static void Swap(int[] array, int i, int j)
         {
             if (i == j)

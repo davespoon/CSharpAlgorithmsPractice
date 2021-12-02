@@ -22,8 +22,8 @@ namespace AlgorithmsTest
 
             return samples;
         }
-        
-        
+
+
         private void RunTestForSortAlgorithm(Action<int[]> sort)
         {
             foreach (var sample in Samples())
@@ -55,6 +55,12 @@ namespace AlgorithmsTest
         public void SelectionSort_ValidInput_SortedOutput()
         {
             RunTestForSortAlgorithm(Sorting.SelectionSort);
+        }
+
+        [Test]
+        public void InsertionSort_ValidInput_SortedOutput()
+        {
+            RunTestForSortAlgorithm(Sorting.InsertionSort);
         }
     }
 }
