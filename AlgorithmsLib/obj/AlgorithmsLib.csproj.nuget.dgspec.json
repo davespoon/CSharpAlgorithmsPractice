@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\RiderProjects\\CSharpAlgorithmsPractice\\AlgorithmsLib\\AlgorithmsLib.csproj": {}
+    "C:\\Users\\dhri\\RiderProjects\\CSharpAlgorithmsPractice\\AlgorithmsLib\\AlgorithmsLib.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\RiderProjects\\CSharpAlgorithmsPractice\\AlgorithmsLib\\AlgorithmsLib.csproj": {
+    "C:\\Users\\dhri\\RiderProjects\\CSharpAlgorithmsPractice\\AlgorithmsLib\\AlgorithmsLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\RiderProjects\\CSharpAlgorithmsPractice\\AlgorithmsLib\\AlgorithmsLib.csproj",
+        "projectUniqueName": "C:\\Users\\dhri\\RiderProjects\\CSharpAlgorithmsPractice\\AlgorithmsLib\\AlgorithmsLib.csproj",
         "projectName": "AlgorithmsLib",
-        "projectPath": "D:\\Projects\\RiderProjects\\CSharpAlgorithmsPractice\\AlgorithmsLib\\AlgorithmsLib.csproj",
-        "packagesPath": "C:\\Users\\Grin\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\RiderProjects\\CSharpAlgorithmsPractice\\AlgorithmsLib\\obj\\",
+        "projectPath": "C:\\Users\\dhri\\RiderProjects\\CSharpAlgorithmsPractice\\AlgorithmsLib\\AlgorithmsLib.csproj",
+        "packagesPath": "C:\\Users\\dhri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dhri\\RiderProjects\\CSharpAlgorithmsPractice\\AlgorithmsLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Grin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\dhri\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
