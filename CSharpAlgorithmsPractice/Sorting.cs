@@ -1,14 +1,40 @@
-﻿namespace CSharpAlgorithmsPractice
+﻿using System;
+
+namespace CSharpAlgorithmsPractice
 {
     public class Sorting
     {
+        public static void MergeSort(int[] array)
+        {
+            Sort(0, array.Length - 1);
 
+            void Sort(int low, int high)
+            {
+                if (high <= low)
+                {
+                    return;
+                }
+
+                int mid = (high + low) / 2;
+                Sort(low, mid);
+                Sort(mid + 1, high);
+            }
+
+            void Merge(int low, int mid, int high)
+            {
+                int i = low;
+                int j = mid + 1;
+                
+                
+                // Array.Copy();
+            }
+        }
 
 
         public static void ShellSort(int[] array)
         {
             int gap = 1;
-            while (gap < array.Length/3)
+            while (gap < array.Length / 3)
             {
                 gap = 3 * gap + 1;
             }
@@ -17,14 +43,16 @@
             {
                 for (int i = gap; i < array.Length; i++)
                 {
-                    for (int j = i; j >=gap && array[j] <array[j - gap]; j-=gap)            
+                    for (int j = i; j >= gap && array[j] < array[j - gap]; j -= gap)
                     {
-                        Swap(array, j, j-gap);
+                        Swap(array, j, j - gap);
                     }
                 }
+
                 gap /= 3;
             }
         }
+
         public static void SelectionSort(int[] array)
         {
             for (int partIndex = array.Length - 1; partIndex > 0; partIndex--)
