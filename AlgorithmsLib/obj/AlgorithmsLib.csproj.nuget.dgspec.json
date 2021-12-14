@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dhri\\RiderProjects\\CSharpAlgorithmsPractice\\AlgorithmsLib\\AlgorithmsLib.csproj": {}
+    "D:\\Projects\\RiderProjects\\CSharpAlgorithmsPractice\\AlgorithmsLib\\AlgorithmsLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dhri\\RiderProjects\\CSharpAlgorithmsPractice\\AlgorithmsLib\\AlgorithmsLib.csproj": {
+    "D:\\Projects\\RiderProjects\\CSharpAlgorithmsPractice\\AlgorithmsLib\\AlgorithmsLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dhri\\RiderProjects\\CSharpAlgorithmsPractice\\AlgorithmsLib\\AlgorithmsLib.csproj",
+        "projectUniqueName": "D:\\Projects\\RiderProjects\\CSharpAlgorithmsPractice\\AlgorithmsLib\\AlgorithmsLib.csproj",
         "projectName": "AlgorithmsLib",
-        "projectPath": "C:\\Users\\dhri\\RiderProjects\\CSharpAlgorithmsPractice\\AlgorithmsLib\\AlgorithmsLib.csproj",
-        "packagesPath": "C:\\Users\\dhri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dhri\\RiderProjects\\CSharpAlgorithmsPractice\\AlgorithmsLib\\obj\\",
+        "projectPath": "D:\\Projects\\RiderProjects\\CSharpAlgorithmsPractice\\AlgorithmsLib\\AlgorithmsLib.csproj",
+        "packagesPath": "C:\\Users\\Grin\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\RiderProjects\\CSharpAlgorithmsPractice\\AlgorithmsLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dhri\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Grin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

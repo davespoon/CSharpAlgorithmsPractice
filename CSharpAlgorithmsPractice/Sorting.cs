@@ -4,29 +4,88 @@ namespace CSharpAlgorithmsPractice
 {
     public class Sorting
     {
-        public static void MergeSort(int[] array)
+        public static void MergeSortByArray(int[] array)
         {
+            if (array.Length < 2) return;
+
+            int mid = array.Length / 2;
+            int[] left = new int[mid];
+            int[] right = new int[array.Length - mid];
+
+            for (int i = 0; i < left.Length; i++)
+            {
+                left[i] = array[i];
+            }
+
+            for (int i = 0; i < right.Length; i++)
+            {
+                right[i] = array[i + mid];
+            }
+
+            MergeSortByArray(left);
+            MergeSortByArray(right);
+            Merge(left, right, array);
+
+
+            void Merge(int[] array1, int[] array2, int[] targetArray)
+            {
+                int array1MinIndex = 0;
+                int array2MinIndex = 0;
+                int targetArrayMinIndex = 0;
+
+                while (array1MinIndex < array1.Length && array2MinIndex < array2.Length)
+                {
+                    if (array1[array1MinIndex] <= array2[array2MinIndex])
+                        targetArray[targetArrayMinIndex] = array1[array1MinIndex++];
+                    else
+                        targetArray[targetArrayMinIndex] = array2[array2MinIndex++];
+
+                    targetArrayMinIndex++;
+                }
+
+                while (array1MinIndex < array1.Length)
+                {
+                    targetArray[targetArrayMinIndex++] = array1[array1MinIndex++];
+                }
+
+                while (array2MinIndex < array2.Length)
+                {
+                    targetArray[targetArrayMinIndex++] = array2[array2MinIndex++];
+                }
+            }
+        }
+
+        public static void MergeSortByIndex(int[] array)
+        {
+            int[] aux = new int[array.Length];
             Sort(0, array.Length - 1);
 
             void Sort(int low, int high)
             {
-                if (high <= low)
-                {
-                    return;
-                }
+                if (high <= low) return;
 
                 int mid = (high + low) / 2;
                 Sort(low, mid);
                 Sort(mid + 1, high);
+                Merge(low, mid, high);
             }
 
             void Merge(int low, int mid, int high)
             {
+                if (array[mid] <= array[mid + 1]) return;
+
                 int i = low;
                 int j = mid + 1;
-                
-                
-                // Array.Copy();
+
+                Array.Copy(array, low, aux, low, high - low + 1);
+
+                for (int k = low; k <= high; k++)
+                {
+                    if (i > mid) array[k] = aux[j++];
+                    else if (j > high) array[k] = aux[i++];
+                    else if (aux[j] < aux[i]) array[k] = aux[j++];
+                    else array[k] = aux[i++];
+                }
             }
         }
 

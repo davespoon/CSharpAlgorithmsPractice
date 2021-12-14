@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\dhri\\.nuget\\packages\\": {}
+    "C:\\Users\\Grin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dhri\\RiderProjects\\CSharpAlgorithmsPractice\\CSharpAlgorithmsPractice\\CSharpAlgorithmsPractice.csproj",
+      "projectUniqueName": "D:\\Projects\\RiderProjects\\CSharpAlgorithmsPractice\\CSharpAlgorithmsPractice\\CSharpAlgorithmsPractice.csproj",
       "projectName": "CSharpAlgorithmsPractice",
-      "projectPath": "C:\\Users\\dhri\\RiderProjects\\CSharpAlgorithmsPractice\\CSharpAlgorithmsPractice\\CSharpAlgorithmsPractice.csproj",
-      "packagesPath": "C:\\Users\\dhri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dhri\\RiderProjects\\CSharpAlgorithmsPractice\\CSharpAlgorithmsPractice\\obj\\",
+      "projectPath": "D:\\Projects\\RiderProjects\\CSharpAlgorithmsPractice\\CSharpAlgorithmsPractice\\CSharpAlgorithmsPractice.csproj",
+      "packagesPath": "C:\\Users\\Grin\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\RiderProjects\\CSharpAlgorithmsPractice\\CSharpAlgorithmsPractice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dhri\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Grin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
