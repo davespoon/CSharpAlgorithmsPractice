@@ -5,6 +5,7 @@
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::B3FF373B-EAC6-4BDF-A6F8-75B179FC07A5::net5.0::AlgorithmsTest.SortingTests.ShellSort_ValidInput_SortedOutput&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::B3FF373B-EAC6-4BDF-A6F8-75B179FC07A5::net5.0::AlgorithmsTest.SortingTests.MergeSort_ValidInput_SortedOutput&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B3FF373B-EAC6-4BDF-A6F8-75B179FC07A5::net5.0::AlgorithmsTest.SortingTests.QuickSort_ValidInput_SortedOutput&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	

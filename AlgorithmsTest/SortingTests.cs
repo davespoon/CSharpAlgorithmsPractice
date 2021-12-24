@@ -20,7 +20,12 @@ namespace AlgorithmsTest
             samples[7] = new[] {0, -5, 3, 0};
             samples[8] = new[] {3, 2, 5, 5, 1, 0, 7, 8};
 
-            return samples;
+            // return samples;
+
+
+            int[][] samples_2 = new int[1][];
+            samples_2[0] = new[] {3, 2, 5, 5, 1, 0, 7, 8};
+            return samples_2;
         }
 
 
@@ -73,6 +78,12 @@ namespace AlgorithmsTest
         public void MergeSort_ValidInput_SortedOutput()
         {
             RunTestForSortAlgorithm(Sorting.MergeSortByArray);
+        }
+
+        [Test]
+        public void QuickSort_ValidInput_SortedOutput()
+        {
+            RunTestForSortAlgorithm(Sorting.QuickSort);
         }
     }
 }
